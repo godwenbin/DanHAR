@@ -8,4 +8,4 @@
  python3 preprocess_data.py -i data/OpportunityUCIDataset.zip -o oppChallenge_gestures.data
  
 # other datasets
-If you need other datasets and the proprecess code of these datasets, please contact us by email (leizhang@njnu.edu.cn or gaowenbin1018@gmail.com).
+If you need other datasets and the preprocess code of these datasets, please contact us by email (leizhang@njnu.edu.cn or gaowenbin1018@gmail.com).
